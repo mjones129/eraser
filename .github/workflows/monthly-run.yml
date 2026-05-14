@@ -54,7 +54,8 @@ jobs:
       
       - name: Upload results
         if: always()
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: eraser-run-${{ github.run_number }}
           path: ~/.eraser/history.db
+          retention-days: 30
