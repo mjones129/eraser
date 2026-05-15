@@ -660,12 +660,6 @@ brokers:
       opt_out_url: https://instantdata.atdata.com/optout
       region: us
       category: marketing
-    - id: atlantic-fox-technologies
-      name: Atlantic Fox Technologies, Inc.
-      email: privacy@atlanticfox.com
-      website: https://www.atlanticfox.com/
-      region: us
-      category: marketing
     - id: attom-data-solutions
       name: ATTOM Data Solutions LLC
       email: erik.wind@attomdata.com
