@@ -557,11 +557,11 @@ brokers:
       opt_out_url: https://privacyportal.onetrust.com/webform/f6a59500-f900-4652-b030-0cd51afe15a5/87ca07e4-e06c-4ad8-9aa6-ccbbaa8750c1
       region: us
       category: marketing
-    - id: andrews-wharton
-      name: Andrews Wharton, Inc.
-      email: privacy@andrewswharton.com
-      website: https://www.andrewswharton.com/
-      opt_out_url: https://www.andrewswharton.com/your-privacy-choices
+    - id: stirista
+      name: Stirista, Inc.
+      email: privacy@stirista.com
+      website: https://www.stirista.com
+      opt_out_url: https://unsubscribe.stirista.com
       region: us
       category: marketing
     - id: anexinet
