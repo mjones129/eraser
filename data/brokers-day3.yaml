@@ -231,12 +231,6 @@ brokers:
       opt_out_url: https://www.mastercard.us/public/my-data/dgr-public/personal-data-request.html?locale=en-us&region=NAM#/ekata/request/personalinfo
       region: us
       category: marketing
-    - id: electronic-commerce-a-to-z
-      name: Electronic Commerce A To Z
-      email: azuttah@ubiquitysystemsusa.com
-      website: https://www.electroniccommerceatoz.com/
-      region: us
-      category: marketing
     - id: electronic-voice-services
       name: ELECTRONIC VOICE SERVICES Inc
       email: richard@evs7.com

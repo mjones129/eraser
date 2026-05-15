@@ -564,12 +564,6 @@ brokers:
       opt_out_url: https://unsubscribe.stirista.com
       region: us
       category: marketing
-    - id: anexinet
-      name: Anexinet Corp.
-      email: privacy@anexinet.com
-      website: https://www.anexinet.com/
-      region: us
-      category: marketing
     - id: anne-lewis-strategies
       name: Anne Lewis Strategies, LLC
       email: info@missionwired.com
@@ -1246,7 +1240,7 @@ brokers:
       category: marketing
     - id: cross-pixel-media
       name: Cross Pixel Media, Inc.
-      email: apearlstein@crosspixel.net
+      email: stephanie.mccabe@knowertech.ca
       website: https://www.crosspixel.net/
       opt_out_url: https://privacy.crsspxl.com/optout
       region: us
@@ -1609,13 +1603,6 @@ brokers:
       opt_out_url: https://optout.networkadvertising.org/
       region: us
       category: marketing
-    - id: edvisors-network
-      name: Edvisors Network, Inc.
-      email: customerservices@edvisors.com
-      website: https://www.edvisors.com/
-      opt_out_url: https://www.edvisors.com/third-party-opt-out/
-      region: us
-      category: marketing
     - id: effyis
       name: Effyis, Inc.
       email: info@socialgist.com
@@ -1633,12 +1620,6 @@ brokers:
       email: privacysupport@ekata.com
       website: https://www.ekata.com/
       opt_out_url: https://www.mastercard.us/public/my-data/dgr-public/personal-data-request.html?locale=en-us&region=NAM#/ekata/request/personalinfo
-      region: us
-      category: marketing
-    - id: electronic-commerce-a-to-z
-      name: Electronic Commerce A To Z
-      email: azuttah@ubiquitysystemsusa.com
-      website: https://www.electroniccommerceatoz.com/
       region: us
       category: marketing
     - id: electronic-voice-services

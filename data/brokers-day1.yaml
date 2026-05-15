@@ -564,12 +564,6 @@ brokers:
       opt_out_url: https://unsubscribe.stirista.com
       region: us
       category: marketing
-    - id: anexinet
-      name: Anexinet Corp.
-      email: privacy@anexinet.com
-      website: https://www.anexinet.com/
-      region: us
-      category: marketing
     - id: anne-lewis-strategies
       name: Anne Lewis Strategies, LLC
       email: info@missionwired.com
