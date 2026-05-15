@@ -1,0 +1,203 @@
+brokers:
+    - id: visitiqio
+      name: Visitiq.Io
+      email: support@visitiq.io
+      website: https://www.visitiq.io/
+      opt_out_url: https://visitiq.io/opt-out-form/
+      region: us
+      category: marketing
+    - id: vistar-media
+      name: Vistar Media, Inc.
+      email: privacy@vistarmedia.com
+      website: https://www.vistarmedia.com/
+      opt_out_url: https://www.vistarmedia.com/privacy-choices
+      region: us
+      category: marketing
+    - id: visual-visitor
+      name: VISUAL VISITOR LLC
+      email: privacy@visualvisitor.com
+      website: https://www.visualvisitor.com/
+      opt_out_url: https://www.visualvisitor.com/opt-out/
+      region: us
+      category: marketing
+    - id: vror
+      name: Vror LLC
+      email: kiran2868@gmail.com
+      region: us
+      category: marketing
+    - id: vrtcal-markets
+      name: VRTCAL Markets Inc
+      email: privacy@vrtcal.com
+      website: https://www.vrtcal.com/
+      opt_out_url: https://www.vrtcal.com/opt-out/
+      region: us
+      category: marketing
+    - id: warmly
+      name: Warmly, Inc
+      email: vendors@warmly.ai
+      website: https://www.warmly.ai/
+      opt_out_url: https://warmly.ai/p/consumer-rights-request
+      region: us
+      category: marketing
+    - id: wealthfeed
+      name: Wealthfeed, Inc.
+      email: info@wealthfeed.com
+      website: https://www.wealthfeed.com/
+      region: us
+      category: marketing
+    - id: webbula
+      name: Webbula, LLC
+      email: support@webbula.com
+      website: https://www.webbula.com/
+      opt_out_url: https://webbula.com/opt-out-request/
+      region: us
+      category: marketing
+    - id: we-inform
+      name: WE INFORM LLC
+      email: support@weinform.org
+      website: https://www.weinform.org/
+      opt_out_url: https://www.weinform.org/optOut/name/landing
+      region: us
+      category: marketing
+    - id: west-publishing
+      name: West Publishing Corporation
+      email: clear.pm-compliance@thomsonreuters.com
+      website: https://www.thomsonreuters.com/
+      opt_out_url: https://www.thomsonreuters.com/ccpa-dsar
+      region: us
+      category: marketing
+    - id: whitepages-2
+      name: Whitepages, Inc.
+      email: legal@whitepages.com
+      website: https://www.whitepages.com/
+      opt_out_url: https://www.whitepages.com/privacy/consumer-rights
+      region: us
+      category: marketing
+    - id: wholesale-mail
+      name: Wholesale Mail
+      email: jenny@helmerprinting.com
+      website: https://www.domymail.com/
+      region: us
+      category: marketing
+    - id: whoodle
+      name: Whoodle, LLC
+      email: support@whoodle.com
+      website: https://www.whoodle.com/
+      region: us
+      category: marketing
+    - id: wiland
+      name: Wiland Inc
+      email: privacy@wiland.com
+      website: https://www.wiland.com/
+      opt_out_url: https://www.wiland.com/privacy-choices#how-to-submit-privacy-choices
+      region: us
+      category: marketing
+    - id: windfall-data
+      name: Windfall Data, Inc.
+      email: privacy@windfalldata.com
+      website: https://www.windfalldata.com/
+      opt_out_url: https://www.windfall.com/do-not-sell-my-info
+      region: us
+      category: marketing
+    - id: winr-data-bv
+      name: WINR Data B.V.
+      email: privacy@winrdata.com
+      website: https://www.winrdata.com/
+      opt_out_url: https://privacyportal-au.onetrust.com/webform/ad3cafad-4bf2-4d22-951f-57cc1fd05690/5fa8f2da-0508-42a6-bbc7-9b031898d10c
+      region: us
+      category: marketing
+    - id: wisdom-media-group
+      name: Wisdom Media Group LLC
+      email: contact@wisdommediagroupllc.com
+      website: https://www.wisdommediagroupllc.com/
+      opt_out_url: https://www.wisdommediagroupllc.com/unsubscribe.php
+      region: us
+      category: marketing
+    - id: wiza
+      name: Wiza, Inc.
+      email: hello@wiza.co
+      website: https://www.wiza.co/
+      opt_out_url: https://www.wiza.co/optout_directory
+      region: us
+      category: marketing
+    - id: wunderkind
+      name: Wunderkind Corporation
+      email: privacy@wunderkind.co
+      website: https://www.wunderkind.co/
+      opt_out_url: https://www.wunderkind.co/privacy/opt-out-of-data-processing/
+      region: us
+      category: marketing
+    - id: xactus
+      name: Xactus, LLC
+      email: doria.sutton@xactus.com
+      website: https://www.xactus.com/
+      region: us
+      category: marketing
+    - id: xad
+      name: Xad, Inc.
+      email: legal@groundtruth.com
+      website: https://www.groundtruth.com/
+      opt_out_url: https://www.groundtruth.com/privacy-rights/
+      region: us
+      category: marketing
+    - id: xcelerated-data
+      name: Xcelerated Data LLC
+      email: privacy@xcelerated.com
+      website: https://www.xcelerated.com/
+      region: us
+      category: marketing
+    - id: x-mode-social
+      name: X-Mode Social, Inc.
+      email: ap@xmodesocial.com
+      website: https://www.xmode.io/
+      opt_out_url: https://outlogic.io/opt-out-form/
+      region: us
+      category: marketing
+    - id: xome-leads
+      name: Xome Leads LLC
+      email: licensing@xome.com
+      website: https://www.xome.com/
+      region: us
+      category: marketing
+    - id: yobi-ventures
+      name: Yobi Ventures, LLC
+      email: admin@yobi.ventures
+      website: https://www.yobi.ventures/
+      opt_out_url: https://www.yobi.ventures/opt-out
+      region: us
+      category: marketing
+    - id: eab-global
+      name: EAB Global, Inc.
+      email: privacy@eab.com
+      website: https://www.appily.com/
+      opt_out_url: https://cappex.formstack.com/forms/do_not_sell
+      region: us
+      category: marketing
+    - id: zenleads
+      name: Zenleads Inc.
+      email: privacy@apollo.io
+      website: https://www.apollo.io/
+      opt_out_url: https://www.apollo.io/privacy-policy/remove
+      region: us
+      category: marketing
+    - id: zeotap-gmbh
+      name: Zeotap GmbH
+      email: team.legal@zeotap.com
+      website: https://www.zeotap.com/
+      opt_out_url: https://privacyportal-de.onetrust.com/webform/bdcc4a2f-2458-4e17-96c3-cf88f7115dfc/2c5e70e5-643a-4c1e-b9c2-1e71584d04ad
+      region: us
+      category: marketing
+    - id: zipstorm
+      name: Zipstorm LLC
+      email: privacy@seekout.com
+      website: https://www.seekout.com/
+      opt_out_url: https://www.seekout.com/privacy/choices
+      region: us
+      category: marketing
+    - id: zs-associates
+      name: ZS ASSOCIATES Inc
+      email: dataprivacy@zs.com
+      website: https://www.zs.com/
+      opt_out_url: https://www.zs.com/data-request
+      region: us
+      category: marketing

@@ -110,6 +110,7 @@ go build -o eraser ./cmd/eraser
 | `eraser send` | Send removal requests |
 | `eraser send --dry-run` | Preview without sending |
 | `eraser list-brokers` | Show all 750+ brokers |
+| `eraser --brokers` | Specify a specific broker list |
 | `eraser status` | View history and stats |
 | `eraser status --limit 50` | Show more history |
 | `eraser add-broker` | Add a custom broker |

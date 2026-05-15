@@ -1,0 +1,702 @@
+brokers:
+    - id: 33-mile-radius
+      name: 33 MILE RADIUS LLC
+      email: legal@evercommerce.com
+      website: https://www.remodeling.com/
+      opt_out_url: https://remodeling.com/do-not-sell/
+      region: us
+      category: marketing
+    - id: azerion-us
+      name: Azerion US Inc.
+      email: dpo_hybridtheory@azerion.com
+      website: https://www.azerion.com/
+      opt_out_url: https://www.hybridtheory.com/do-not-sell/
+      region: us
+      category: marketing
+    - id: azira
+      name: AZIRA LLC
+      email: sonal@azira.com
+      website: https://www.azira.com/
+      opt_out_url: https://submit-irm.trustarc.com/services/validation/0a80503b-1d56-4d50-a898-4377a0227dab
+      region: us
+      category: marketing
+    - id: background-information-services
+      name: Background Information Services, Inc.
+      email: compliance@bisi.com
+      website: https://www.bisi.com/
+      region: us
+      category: marketing
+    - id: bb-direct
+      name: BB Direct, Inc
+      email: brianberg@bbdirect.com
+      website: https://www.bbdirect.com/
+      opt_out_url: https://www.bbdirect.com/privacy-compliance.html
+      region: us
+      category: marketing
+    - id: bdex
+      name: Bdex, LLC
+      email: privacy@bdex.com
+      website: https://www.bdex.com/
+      opt_out_url: https://www.bdex.com/privacy-policy/data-sharing-opt-out/
+      region: us
+      category: marketing
+    - id: bdo-usa-llp
+      name: BDO USA, LLP
+      email: privacy@bdo.com
+      website: https://www.bdo.com/
+      opt_out_url: https://www.bdo.com/do-not-sell-my-personal-information
+      region: us
+      category: marketing
+    - id: beenverified-2
+      name: Beenverified, Inc.
+      email: ccpa@beenverified.com
+      website: https://www.beenverified.com/
+      opt_out_url: https://www.beenverified.com/svc/optout/search/optouts
+      region: us
+      category: marketing
+    - id: beeswax
+      name: Beeswax
+      email: privacy@beeswax.com
+      website: https://www.beeswax.com/
+      opt_out_url: https://optout.prod.bidr.io/optout
+      region: us
+      category: marketing
+    - id: best-pick-reports
+      name: Best Pick Reports, LLC
+      email: support@bestpickreports.com
+      website: https://www.bestpickreports.com/
+      opt_out_url: https://www.bestpickreports.com/do-not-sell
+      region: us
+      category: marketing
+    - id: publicnsa
+      name: PUBLICNSA LLC
+      email: privacy@bigdbm.com
+      website: https://www.bigdbm.com/
+      opt_out_url: https://optout.bigdbm.com/
+      region: us
+      category: marketing
+    - id: biointelli
+      name: Biointelli Corporation
+      email: privacy@biointelli.net
+      website: https://www.biointelli.com/
+      region: us
+      category: marketing
+    - id: birchwood-credit-services
+      name: Birchwood Credit Services Inc
+      email: billing@birchwoodcreditservices.com
+      website: https://www.birchwoodcreditservices.com/
+      region: us
+      category: marketing
+    - id: biscred
+      name: Biscred
+      email: rob@biscred.com
+      website: https://www.biscred.com/
+      opt_out_url: https://www.biscred.com/do-not-sell-my-information
+      region: us
+      category: marketing
+    - id: black-pearl-group-limited
+      name: Black Pearl Group Limited
+      email: privacy@blackpearl.com
+      website: https://www.blackpearl.com/
+      opt_out_url: https://www.blackpearl.com/privacy-opt-out
+      region: us
+      category: marketing
+    - id: bliss-point-media
+      name: Bliss Point Media, Inc.
+      email: privacy@blisspointmedia.com
+      website: https://www.blisspointmedia.com/
+      opt_out_url: https://www.blisspointmedia.com/privacy
+      region: us
+      category: marketing
+    - id: blis-usa
+      name: Blis USA, Inc.
+      email: privacy@blis.com
+      website: https://www.blis.com/
+      opt_out_url: https://blis.com/ccpa-opt-out/
+      region: us
+      category: marketing
+    - id: blue-action
+      name: Blue Action
+      email: info@blueaction.io
+      website: https://www.blueaction.io/
+      opt_out_url: https://my.datasubject.com/16CV6iU2K7qFU3Poy/33263
+      region: us
+      category: marketing
+    - id: blue-hill-marketing-solutions
+      name: Blue Hill Marketing Solutions, Inc.
+      email: khuntoon@liftengine.com
+      website: https://www.liftbasedata.com/
+      opt_out_url: https://www.liftbasedata.com/request-to-know/
+      region: us
+      category: marketing
+    - id: bombora
+      name: Bombora, Inc
+      email: legal@bombora.com
+      website: https://www.bombora.com/
+      opt_out_url: https://bombora.com/opt-out/
+      region: us
+      category: marketing
+    - id: a-direct-marketing
+      name: A DIRECT MARKETING Inc
+      email: mark@bookyourdata.com
+      website: https://www.bookyourdata.com/
+      region: us
+      category: marketing
+    - id: business-resource-center
+      name: Business Resource Center LLC
+      email: busiresourcecenter@gmail.com
+      region: us
+      category: marketing
+    - id: bridge
+      name: Bridge
+      email: joshua.hirsch@thebridgecorp.com
+      website: https://www.thebridgecorp.com/
+      opt_out_url: https://www.thebridgecorp.com/opt-out/
+      region: us
+      category: marketing
+    - id: bridgevine
+      name: Bridgevine Inc.
+      email: dwayne.landry@bridgevine.com
+      website: https://www.bridgevine.com/
+      region: us
+      category: marketing
+    - id: brightcheck
+      name: Brightcheck Inc.
+      email: admin@brightcheck.com
+      website: https://www.brightcheck.com/
+      region: us
+      category: marketing
+    - id: brigthswipe
+      name: Brigthswipe Inc
+      email: admin@brightswipe.com
+      website: https://www.brightswipe.com/
+      region: us
+      category: marketing
+    - id: brooks-integrated-marketing
+      name: Brooks Integrated Marketing, LLC
+      email: privacy@brooksim.com
+      website: https://www.brooksim.com/
+      opt_out_url: https://www.brooksim.com/privacy-form
+      region: us
+      category: marketing
+    - id: btrs-holdings
+      name: BTRS Holdings Inc
+      email: privacy@billtrust.com
+      website: https://www.billtrust.com/
+      opt_out_url: https://privacyportal.onetrust.com/webform/82a6a736-b3a7-4e87-a2fd-04a39b7d2b19/2f5dc7b8-7698-4623-82d2-b2b969ef901e
+      region: us
+      category: marketing
+    - id: buildertrend-solutions
+      name: Buildertrend Solutions, Inc.
+      email: privacy@buildertrend.com
+      website: https://www.buildertrend.com/
+      region: us
+      category: marketing
+    - id: businesscom
+      name: Business.Com
+      email: customercare@business.com
+      website: https://www.business.com/
+      opt_out_url: https://www.business.com/optout/
+      region: us
+      category: marketing
+    - id: buxton-company
+      name: Buxton Company, LLC
+      email: mthomas@buxtonco.com
+      website: https://www.buxtonco.com/
+      opt_out_url: https://www.buxtonco.com/privacy/opt-out
+      region: us
+      category: marketing
+    - id: buyerlink
+      name: Buyerlink Inc.
+      email: legal@buyerlink.com
+      website: https://www.buyerlink.com/
+      opt_out_url: https://www.buyerlink.com/do-not-sell-or-share-my-personal-information
+      region: us
+      category: marketing
+    - id: bv-insights
+      name: BV Insights LLC
+      email: legal@big-village.com
+      website: https://www.big-village.com/
+      opt_out_url: https://big-village.com/do-not-sell-or-share-my-personal-information/
+      region: us
+      category: marketing
+    - id: cadent
+      name: Cadent, LLC
+      email: cmarcos@cadent.tv
+      website: https://www.cadent.tv/
+      opt_out_url: https://cadent.tv/your-privacy-choices/
+      region: us
+      category: marketing
+    - id: captify-technologies
+      name: Captify Technologies
+      email: lorraine.pinter@captify.co.uk
+      website: https://www.captifytechnologies.com/
+      opt_out_url: https://www.captifytechnologies.com/data-subject-rights-request/
+      region: us
+      category: marketing
+    - id: carco-group
+      name: CARCO Group, Inc.
+      email: compliance@cisive.com
+      website: https://www.cisive.com/
+      region: us
+      category: marketing
+    - id: cardlytics
+      name: CARDLYTICS Inc
+      email: legalnotices@cardlytics.com
+      website: https://www.bridg.com/
+      opt_out_url: https://datagrail.cardlytics.com/
+      region: us
+      category: marketing
+    - id: careerbuilder
+      name: Careerbuilder, LLC
+      email: privacy@careerbuilder.com
+      website: https://www.careerbuilder.com/
+      region: us
+      category: marketing
+    - id: car-market-solutions
+      name: Car Market Solutions LLC
+      email: ben@carmarketsolutions.com
+      website: https://www.carmarketsolutions.com/
+      region: us
+      category: marketing
+    - id: carry-technologies
+      name: Carry Technologies, Inc
+      email: legal@hightouch.com
+      website: https://www.hightouch.com/
+      opt_out_url: https://www.hightouch.com/privacy-choices
+      region: us
+      category: marketing
+    - id: catalina-marketing
+      name: Catalina Marketing Corporation
+      email: privacyteam@catalina.com
+      website: https://www.catalina.com/
+      opt_out_url: https://www.catalina.com/#privacy
+      region: us
+      category: marketing
+    - id: catalist
+      name: Catalist LLC
+      email: ggruver@catalist.us
+      website: https://www.catalist.us/
+      opt_out_url: https://catalist.us/your-privacy-choices/
+      region: us
+      category: marketing
+    - id: catalyze-ai
+      name: Catalyze Ai, Inc
+      email: privacy@catalyzeai.com
+      website: https://www.catalyzeai.com/
+      opt_out_url: https://www.catalyzeai.com/opt-out
+      region: us
+      category: marketing
+    - id: cdk-global
+      name: CDK Global, LLC
+      email: james.kinzer@cdk.com
+      website: https://www.cdkglobal.com/
+      region: us
+      category: marketing
+    - id: censia
+      name: Censia, Inc.
+      email: tgotowka@censia.com
+      website: https://www.censia.com/
+      opt_out_url: https://www.censia.com/privacy-policy/#your-rights-and-choices
+      region: us
+      category: marketing
+    - id: checkpeople
+      name: Checkpeople, LLC
+      email: operations@checkpeople.com
+      website: https://www.checkpeople.com/
+      region: us
+      category: marketing
+    - id: choreograph
+      name: CHOREOGRAPH LLC
+      email: adam.little@choreograph.com
+      website: https://www.choreograph.com/
+      opt_out_url: https://amer-cpp.choreograph.com/manage-your-data/do-not-sell
+      region: us
+      category: marketing
+    - id: cic-mortgage-credit
+      name: CIC Mortgage Credit, Inc
+      email: compliance@ciccredit.com
+      website: https://www.ciccredit.com/
+      opt_out_url: https://www.optoutprescreen.com/
+      region: us
+      category: marketing
+    - id: runtime-collective
+      name: Runtime Collective LLC
+      email: legaldept@cision.com
+      website: https://www.cision.com/
+      opt_out_url: https://www.cision.com/contact-us/opt-out/
+      region: us
+      category: marketing
+    - id: civil-data-research
+      name: Civil Data Research, LLC
+      email: privacyinfo@searchpublicrecords.com
+      website: https://www.searchpublicrecords.com/
+      opt_out_url: https://www.searchpublicrecords.com/help-center/privacy-requests
+      region: us
+      category: marketing
+    - id: civis-analytics
+      name: Civis Analytics, Inc
+      email: dataprotection@civisanalytics.com
+      website: https://www.civisanalytics.com/
+      opt_out_url: https://www.civisanalytics.com/privacy-policy/#ccpa
+      region: us
+      category: marketing
+    - id: civitech
+      name: Civitech
+      email: jake.london@civitech.io
+      website: https://www.civitech.io/
+      opt_out_url: https://www.civitech.io/privacy-policy/#section5
+      region: us
+      category: marketing
+    - id: claritas
+      name: CLARITAS LLC
+      email: al.gadbut@claritas.com
+      website: https://www.claritas.com/
+      opt_out_url: https://privacyportal.onetrust.com/webform/68582716-6ce4-4f6e-bf08-78371b5f3292/6c7dc52d-0e2b-481f-9256-0755179e3783
+      region: us
+      category: marketing
+    - id: clay-labs
+      name: Clay Labs LLC
+      email: privacy@clay.com
+      website: https://www.clay.com/
+      opt_out_url: https://docs.google.com/forms/d/e/1FAIpQLSeAsU1U-AJfhqzDx6-6eVcyQ_kBD1J9cw1y0huQiS-HCkRf0Q/viewform?usp=send_form
+      region: us
+      category: marketing
+    - id: clearcompany
+      name: Clearcompany, LLC
+      email: privacy@clearcompany.com
+      website: https://www.clearcompany.com/
+      opt_out_url: https://optout.networkadvertising.org/
+      region: us
+      category: marketing
+    - id: clearview-ai
+      name: Clearview Ai, Inc.
+      email: legal@clearview.ai
+      website: https://www.clearview.ai/
+      opt_out_url: https://www.clearview.ai/privacy-and-requests
+      region: us
+      category: marketing
+    - id: datanyze
+      name: DATANYZE LLC
+      email: ccpa@clickagy.com
+      website: https://www.datanyze.com/
+      opt_out_url: https://www.datanyze.com/privacy-center
+      region: us
+      category: marketing
+    - id: cognism
+      name: Cognism Inc.
+      email: legal@cognism.com
+      website: https://www.cognism.com/
+      opt_out_url: https://cognism.privacy.saymine.io/cognism
+      region: us
+      category: marketing
+    - id: collateral-analytics
+      name: Collateral Analytics, LLC
+      email: compliancemortgagetech@ice.com
+      website: https://www.mortgagetech.ice.com/
+      region: us
+      category: marketing
+    - id: collective-data-solutions
+      name: Collective Data Solutions, LLC
+      email: privacy@collectivedata.io
+      website: https://www.collectivedata.io/
+      opt_out_url: https://www.collectivedata.io/opt-out-do-not-sell-request-process/
+      region: us
+      category: marketing
+    - id: command-precision
+      name: Command Precision Inc.
+      email: info@persistent.id
+      website: https://www.persistent.id/
+      opt_out_url: https://www.intentwave.com/opt-out
+      region: us
+      category: marketing
+    - id: commercial-real-estate-exchange
+      name: COMMERCIAL REAL ESTATE EXCHANGE Inc
+      email: privacy@crexi.com
+      website: https://www.crexi.com/
+      opt_out_url: https://crexi.bigidprivacy.cloud/consumer/#/o2TCsG9LJ7
+      region: us
+      category: marketing
+    - id: complementics
+      name: Complementics
+      email: hello@complementics.com
+      website: https://www.complementics.com/
+      opt_out_url: https://www.complementics.com/optout-donotsell
+      region: us
+      category: marketing
+    - id: complete-mailing-lists
+      name: Complete Mailing Lists
+      email: ewoolf@completemailinglists.com
+      website: https://www.completemailinglists.com/
+      opt_out_url: https://www.completemailinglists.com/node/3697
+      region: us
+      category: marketing
+    - id: complete-medical-lists
+      name: COMPLETE MEDICAL LISTS Inc
+      email: tburnell@completemedicallists.com
+      website: https://www.completemedicallists.com/
+      opt_out_url: https://www.completemedicallists.com/ccpa.php
+      region: us
+      category: marketing
+    - id: comscore
+      name: Comscore, Inc.
+      email: privacy@comscore.com
+      website: https://www.comscore.com/
+      opt_out_url: https://www.comscore.com/About/Privacy/Data-Subject-Rights
+      region: us
+      category: marketing
+    - id: connect-computer
+      name: Connect Computer LLC
+      email: support@calltruth.com
+      website: https://www.calltruth.com/
+      opt_out_url: https://www.calltruth.com/opt_out.php
+      region: us
+      category: marketing
+    - id: connected-investors
+      name: Connected Investors LLC
+      email: support@connectedinvestors.com
+      website: https://www.connectedinvestors.com/
+      opt_out_url: https://firstam.service-now.com/x_farf2_dp_request_ci_opt_out.do?sysparm_id=6d6e7e8edb3e3158665f182813961985
+      region: us
+      category: marketing
+    - id: connext-digital
+      name: Connext Digital, LLC
+      email: rob.fitzgerald@connextdigital.com
+      website: https://www.connextdigital.com/
+      opt_out_url: https://www.connextdigital.com/opt-out/
+      region: us
+      category: marketing
+    - id: consider
+      name: Consider, Inc.
+      email: ralph@consider.com
+      website: https://www.consider.com/
+      region: us
+      category: marketing
+    - id: consolidated-information-services-solutions
+      name: Consolidated Information Services Solutions LLC
+      email: ccasey@universalcredit.com
+      website: https://www.universalcis.com/
+      region: us
+      category: marketing
+    - id: consumer-canvas
+      name: CONSUMER CANVAS LLC
+      email: privacy@consumercanvas.net
+      region: us
+      category: marketing
+    - id: contactout
+      name: Contactout
+      email: support@contactout.com
+      website: https://www.contactout.com/
+      opt_out_url: https://contactout.com/optout
+      region: us
+      category: marketing
+    - id: contemporary-information
+      name: CONTEMPORARY INFORMATION CORP.
+      email: compliance@cicreports.com
+      website: https://www.cicreports.com/
+      region: us
+      category: marketing
+    - id: contentgine
+      name: Contentgine Inc.
+      email: paul@contentgine.com
+      website: https://www.contentgine.com/
+      region: us
+      category: marketing
+    - id: converge-direct
+      name: Converge Direct, LLC.
+      email: contracts@convergedirect.com
+      website: https://www.convergemarketing.com/
+      opt_out_url: https://www.convergemarketing.com/infoform/?rpgn=&rpurl=
+      region: us
+      category: marketing
+    - id: convex-labs
+      name: CONVEX LABS LLC
+      email: support@convexlabs.io
+      website: https://www.convex.com/
+      opt_out_url: https://www.convex.com/request-removal
+      region: us
+      category: marketing
+    - id: costar-group
+      name: Costar Group
+      email: globalprivacyinbox@costar.com
+      website: https://www.costar.com/
+      region: us
+      category: marketing
+    - id: crawlbee
+      name: Crawlbee Corp
+      email: ryan@crawlbee.io
+      website: https://www.crawlbee.com/
+      region: us
+      category: marketing
+    - id: credit-bureau-of-council-bluffs
+      name: Credit Bureau Of Council Bluffs, Inc
+      email: heather@creditinfosystems.com
+      website: https://www.creditinfosystems.com/
+      region: us
+      category: marketing
+    - id: crisil-irevna-us
+      name: CRISIL Irevna US LLC
+      email: privacy1@crisil.com
+      website: https://www.greenwich.com/
+      opt_out_url: https://www.crisil.com/content/crisilcom/en/home/crisil-privacy-notice/do-not-sell-my-personal-information.html
+      region: us
+      category: marketing
+    - id: cross-pixel-media
+      name: Cross Pixel Media, Inc.
+      email: apearlstein@crosspixel.net
+      website: https://www.crosspixel.net/
+      opt_out_url: https://privacy.crsspxl.com/optout
+      region: us
+      category: marketing
+    - id: crosswalk-technologies
+      name: Crosswalk Technologies Inc
+      email: privacy@crosswalknyc.com
+      website: https://www.crosswalknyc.com/
+      opt_out_url: https://www.crosswalknyc.com/optout
+      region: us
+      category: marketing
+    - id: crunchbase
+      name: Crunchbase Inc
+      email: privacy@crunchbase.com
+      website: https://www.crunchbase.com/
+      region: us
+      category: marketing
+    - id: ctam-leadshare
+      name: CTAM Leadshare Corp.
+      email: zell@ctam.com
+      website: https://www.ctam.com/
+      opt_out_url: https://www.smartmove.us/company/do-not-sell
+      region: us
+      category: marketing
+    - id: cuebiq-group
+      name: Cuebiq Group, LLC
+      email: privacy@cuebiq.com
+      website: https://www.cuebiq.com/
+      opt_out_url: https://www.cuebiq.com/privacypolicy/
+      region: us
+      category: marketing
+    - id: cybba
+      name: Cybba Inc.
+      email: privacy@cybba.com
+      website: https://www.cybba.com/
+      opt_out_url: https://cybba-requests.my.onetrust.com/webform/a4a1351e-d293-4305-bde4-b9cf8f5c0989/f89c576a-b5c6-498e-bad5-698f084ffd30
+      region: us
+      category: marketing
+    - id: cyndx-networks
+      name: Cyndx Networks LLC
+      email: privacy@cyndx.com
+      website: https://www.cyndx.com/
+      opt_out_url: https://www.cyndx.com/california-do-not-track/
+      region: us
+      category: marketing
+    - id: data-axle
+      name: Data Axle, Inc.
+      email: doba_privacy@donorbase.com
+      website: https://www.data-axle.com/
+      opt_out_url: https://www.data-axle.com/do-not-sell-my-data/
+      region: us
+      category: marketing
+    - id: data-decisions-group
+      name: Data Decisions Group, LLC
+      email: privacy@datadecisionsgroup.com
+      website: https://www.datadecisionsgroup.com/
+      region: us
+      category: marketing
+    - id: datadelivers
+      name: Datadelivers LLC
+      email: supplier@datadelivers.com
+      website: https://www.datadelivers.com/
+      opt_out_url: https://datadelivers.com/unsubscribe/
+      region: us
+      category: marketing
+    - id: datadojo-cdp
+      name: Datadojo CDP Inc.
+      email: contact@datadojo.ai
+      region: us
+      category: marketing
+    - id: data-facts
+      name: Data Facts, Inc.
+      email: compliance@datafacts.com
+      website: https://www.datafacts.com/
+      region: us
+      category: marketing
+    - id: datafy
+      name: Datafy LLC
+      email: support@datafy.com
+      website: https://www.datafy.com/
+      opt_out_url: https://www.datafy.com/opt-out
+      region: us
+      category: marketing
+    - id: dataline
+      name: DATALINE Inc
+      email: psobel@datalinedata.com
+      website: https://www.datalinedata.com/
+      region: us
+      category: marketing
+    - id: data-marketing-solutions
+      name: Data Marketing Solutions, Inc.
+      email: support@bizwatchnetwork.com
+      website: https://www.businesswatchnetwork.com/
+      region: us
+      category: marketing
+    - id: datamentors
+      name: DATAMENTORS LLC
+      email: privacy@porchgroupmedia.com
+      website: https://www.porchgroupmedia.com/
+      opt_out_url: https://www.porchgroupmedia.com/inbound/do-not-sell-my-personal-information/
+      region: us
+      category: marketing
+    - id: deluxe
+      name: Deluxe Corporation
+      email: privacyprogramoffice@deluxe.com
+      website: https://www.deluxe.com/
+      opt_out_url: https://www.deluxe.com/policy/donotsell/
+      region: us
+      category: marketing
+    - id: data-partners
+      name: DATA PARTNERS Inc
+      email: info@datapartners.com
+      website: https://www.datapartners.com/
+      opt_out_url: https://datapartners.com/donotsellmyinformation
+      region: us
+      category: marketing
+    - id: dataskip
+      name: Dataskip
+      email: support@dataskip.io
+      website: https://www.dataskip.io/
+      region: us
+      category: marketing
+    - id: datasys-group
+      name: DATASYS GROUP Inc
+      email: privacy@datasys.com
+      website: https://www.datasys.com/
+      region: us
+      category: marketing
+    - id: corelogic-credco-of-puerto-rico
+      name: Corelogic Credco of Puerto Rico
+      email: licensing.erm@corelogic.com
+      website: https://www.teletrack.com/
+      opt_out_url: https://www.optoutprescreen.com/
+      region: us
+      category: marketing
+    - id: datonics
+      name: Datonics, LLC
+      email: privacy@datonics.com
+      website: https://www.datonics.com/
+      opt_out_url: https://www.datonics.com/do-not-sell-my-info#page
+      region: us
+      category: marketing
+    - id: david-rickenbacher
+      name: David Rickenbacher
+      email: sales@datamasters.org
+      website: https://www.datamasters.org/
+      opt_out_url: https://www.datamasters.org/opt-out/
+      region: us
+      category: marketing
+    - id: dealerdirect
+      name: DEALERDIRECT LLC
+      email: fdcomply@forddirect.com
+      website: https://www.forddirect.com/
+      opt_out_url: https://privacyportal.onetrust.com/webform/1d20b685-0942-4b4d-a0af-b799c97f5cf6/2e4928b6-d77a-4f76-9518-1bfb9721669d
+      region: us
+      category: marketing

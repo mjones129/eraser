@@ -1,0 +1,706 @@
+brokers:
+    - id: hamza-online-services
+      name: Hamza Online Services, LLC
+      email: zohandurani@hotmail.com
+      region: us
+      category: marketing
+    - id: harmon-research-group
+      name: Harmon Research Group, LLC
+      email: info@harmonresearch.com
+      website: https://www.harmonresearch.com/
+      region: us
+      category: marketing
+    - id: hd-information
+      name: HD INFORMATION LLC
+      email: hdi_support@hygenicsdata.com
+      website: https://www.hygenicsdata.com/
+      opt_out_url: https://myprivacy.equifax.com/opt-in-opt-out/personal-info
+      region: us
+      category: marketing
+    - id: healthcare
+      name: Healthcare, Inc.
+      email: info@healthcare.com
+      website: https://www.healthcare.com/
+      opt_out_url: https://www.healthcare.com/data-request/request-form/
+      region: us
+      category: marketing
+    - id: health-is-wealth-marketing
+      name: Health Is Wealth Marketing LLC
+      email: info@pickmedicare.com
+      website: https://www.pickmedicare.com/
+      region: us
+      category: marketing
+    - id: healthlink-dimensions
+      name: Healthlink Dimensions, LLC
+      email: nlenyszyn@healthlinkdimensions.com
+      website: https://www.healthlinkdimensions.com/
+      opt_out_url: https://www.healthlinkdimensions.com/consumerprivacyrights?hsLang=en
+      region: us
+      category: marketing
+    - id: healthwise-data
+      name: Healthwise Data, LLC
+      email: info@healthwisedata.com
+      website: https://www.healthwisedata.com/
+      opt_out_url: https://www.healthwisedata.com/compliance-optout
+      region: us
+      category: marketing
+    - id: heartbeatai
+      name: HEARTBEAT.AI Inc
+      email: contact@swordfish.ai
+      website: https://www.swordfish.ai/
+      opt_out_url: https://heartbeat.ai/optout
+      region: us
+      category: marketing
+    - id: helix-campaigns
+      name: Helix Campaigns LLC
+      email: info@helixcampaigns.com
+      website: https://www.helixcampaigns.com/
+      opt_out_url: https://helixcampaigns.com/mydata/
+      region: us
+      category: marketing
+    - id: here-north-america
+      name: HERE North America LLC
+      email: privacy@here.com
+      website: https://www.here.com/
+      opt_out_url: https://legal.here.com/en-gb/privacy/do-not-sell
+      region: us
+      category: marketing
+    - id: hexasoft-development-sdn-bhd
+      name: Hexasoft Development Sdn. Bhd.
+      email: support@ip2location.com
+      website: https://www.ip2location.com/
+      opt_out_url: https://www.ip2location.com/do-not-sell
+      region: us
+      category: marketing
+    - id: general-information-solutions
+      name: General Information Solutions LLC
+      email: cklafehn@backgroundchecks.com
+      website: https://www.backgroundchecks.com/
+      region: us
+      category: marketing
+    - id: hireteammate
+      name: HIRETEAMMATE Inc
+      email: privacy@hireez.com
+      website: https://www.hireez.com/
+      opt_out_url: https://app.hireez.com/ownyourdata
+      region: us
+      category: marketing
+    - id: hivestack
+      name: Hivestack, Inc.
+      email: privacy@hivestack.com
+      website: https://www.hivestack.com/
+      opt_out_url: https://www.hivestack.com/opt-out-california-residents/
+      region: us
+      category: marketing
+    - id: home-contractors-review
+      name: Home Contractors Review, LLC
+      email: adminsupport@fivestarrated.com
+      website: https://www.fivestarrated.com/
+      opt_out_url: https://www.fivestarrated.com/do-not-sell
+      region: us
+      category: marketing
+    - id: accudata-integrated-marketing
+      name: ACCUDATA INTEGRATED Marketing, Inc.
+      email: privacy.compliance@accudata.com
+      website: https://www.aslmarketing.com/
+      opt_out_url: https://optout.accudata.com
+      region: us
+      category: marketing
+    - id: homeowners-marketing-services
+      name: Homeowners Marketing Services Inc
+      email: dnm@homeownersmarketingservices.com
+      website: https://www.homeownersmarketingservices.com/
+      opt_out_url: https://homeownersmarketingservices.com/list-removal-request-new/
+      region: us
+      category: marketing
+    - id: hubspot
+      name: Hubspot, Inc.
+      email: privacy@hubspot.com
+      website: https://www.hubspot.com/
+      region: us
+      category: marketing
+    - id: hunt-club
+      name: Hunt Club Inc
+      email: scott@huntclub.com
+      website: https://www.exploreatlas.io/
+      region: us
+      category: marketing
+    - id: hunter-web-services
+      name: Hunter Web Services Inc
+      email: privacy@hunter.io
+      website: https://www.hunter.io/
+      opt_out_url: https://www.hunter.io/claim?ref=donotsell
+      region: us
+      category: marketing
+    - id: hybrid-theory
+      name: Hybrid Theory
+      email: privacy@hybridtheory.com
+      website: https://www.hybridtheory.com/
+      region: us
+      category: marketing
+    - id: i360
+      name: I360, LLC
+      email: privacy@i-360.com
+      website: https://www.i-360.com/
+      opt_out_url: https://privacyportal.onetrust.com/webform/77dff651-9f08-40cd-99fe-a7c487b2504d/fd25e566-5931-4987-ae94-13ffd3306913
+      region: us
+      category: marketing
+    - id: id5-technology
+      name: ID5 Technology
+      email: privacy@id5.io
+      website: https://www.id5.io/
+      opt_out_url: https://www.id5.io/platform-privacy-policy/#what-are-your-choices
+      region: us
+      category: marketing
+    - id: idengine
+      name: Idengine LLC
+      email: chad@idengine.ai
+      website: https://www.idengine.com/
+      opt_out_url: https://idengine.com/dnsmpi/
+      region: us
+      category: marketing
+    - id: idm
+      name: Idm, Inc.
+      email: ccpa@idm.us.com
+      website: https://www.idm.us.com/
+      region: us
+      category: marketing
+    - id: ileadscom
+      name: Ileads.Com, LLC
+      email: inquiries@ileads.com
+      website: https://www.ileads.com/
+      opt_out_url: https://ileads.com/submitrequest/
+      region: us
+      category: marketing
+    - id: illumin
+      name: Illumin Inc.
+      email: itops@acuityads.com
+      website: https://www.illumin.com/
+      opt_out_url: https://privacy.acuityads.com/opt-out.html
+      region: us
+      category: marketing
+    - id: imprint-analytics
+      name: Imprint Analytics LLC
+      email: privacy@imprintanalytics.io
+      website: https://www.imprintanalytics.io/
+      opt_out_url: https://imprintanalytics.io/limit-the-use-of-my-sensitive-personal-information/
+      region: us
+      category: marketing
+    - id: inbound-insight
+      name: Inbound Insight, LLC
+      email: info@inboundinsight.com
+      website: https://www.inboundinsight.com/
+      region: us
+      category: marketing
+    - id: incheck
+      name: Incheck Inc
+      email: jenwaite@inchecksolutions.com
+      website: https://www.inchecksolutions.com/
+      region: us
+      category: marketing
+    - id: indiemark
+      name: Indiemark LLC
+      email: privacy@emailindustries.com
+      website: https://www.emailindustries.com/
+      opt_out_url: https://www.emailindustries.com/legal/#ccpa
+      region: us
+      category: marketing
+    - id: infinite-knot
+      name: Infinite Knot Inc.
+      email: barrygold@contacts411.com
+      website: https://www.contacts411.com/
+      opt_out_url: https://www.contacts411.com/opt-out
+      region: us
+      category: marketing
+    - id: infinite-media-concepts
+      name: Infinite Media Concepts Inc
+      email: sheck@mlxp.com
+      website: https://www.mlxp.com/
+      region: us
+      category: marketing
+    - id: inflection-risk-solutions
+      name: Inflection Risk Solutions, LLC
+      email: legal@inflection.com
+      website: https://www.inflection.com/
+      region: us
+      category: marketing
+    - id: infocore
+      name: Infocore Inc.
+      email: bjupp@infocore.com
+      website: https://www.infocore.com/
+      region: us
+      category: marketing
+    - id: infofreecom
+      name: Infofree.Com LLC
+      email: accounting@infofree.com
+      website: https://www.infofree.com/
+      opt_out_url: https://privacycompliance.biz/databaseusa-opt-out-process/
+      region: us
+      category: marketing
+    - id: infogroup
+      name: Infogroup Inc.
+      email: privacyteam@infogroup.com
+      website: https://www.infogroup.com/
+      opt_out_url: https://www.data-axle.com/do-not-sell-my-data/
+      region: us
+      category: marketing
+    - id: infomatics
+      name: INFOMATICS LLC
+      email: llcinfomatics@gmail.com
+      website: https://www.privatereports.com/
+      opt_out_url: https://www.privatereports.com/optOut/name/landing
+      region: us
+      category: marketing
+    - id: infopay
+      name: INFOPAY Inc
+      email: compliance@infopay.com
+      website: https://www.infopay.com/
+      region: us
+      category: marketing
+    - id: informationcom
+      name: Information.Com, LLC
+      email: operations@information.com
+      website: https://www.information.com/
+      region: us
+      category: marketing
+    - id: information-data-resources
+      name: Information Data Resources, LLC
+      email: privacyinfo@publicinfoservices.com
+      website: https://www.publicinfoservices.com/
+      opt_out_url: https://www.publicinfoservices.com/help-center/privacy-requests
+      region: us
+      category: marketing
+    - id: infutor-data-solutions
+      name: Infutor Data Solutions LLC
+      email: security@infutor.com
+      website: https://www.ruf.com/
+      opt_out_url: https://privacy.infutor.com/s/
+      region: us
+      category: marketing
+    - id: inmarket-media
+      name: Inmarket Media LLC
+      email: privacy@inmarket.com
+      website: https://www.inmarket.com/
+      opt_out_url: https://www.inmarket.com/opt-out/
+      region: us
+      category: marketing
+    - id: inmobi
+      name: Inmobi
+      email: privacy@inmobi.com
+      website: https://www.trufactor.io/
+      region: us
+      category: marketing
+    - id: innovative-database-solutions
+      name: Innovative Database Solutions, Inc.
+      email: compliance@idatabasesolutions.com
+      website: https://www.idatabasesolutions.com/
+      opt_out_url: https://idatabasesolutions.com/do-not-sell-my-personal-info/
+      region: us
+      category: marketing
+    - id: innovis-data-solutions
+      name: Innovis Data Solutions, Inc.
+      email: vtdata@innovis.com
+      website: https://www.innovis.com/
+      opt_out_url: https://www.innovis.com/personal/optOutOptIn
+      region: us
+      category: marketing
+    - id: insideview
+      name: InsideView, Inc.
+      email: privacy@insideview.com
+      website: https://www.insideview.com/
+      region: us
+      category: marketing
+    - id: insightbridge
+      name: Insightbridge LLC
+      email: membersupport@mylife.com
+      website: https://www.mylife.com/
+      region: us
+      category: marketing
+    - id: intalytics
+      name: Intalytics, Inc.
+      email: privacy@kalibrate.com
+      website: https://www.esiteanalytics.com/
+      region: us
+      category: marketing
+    - id: integrated-medical-data
+      name: Integrated Medical Data, LLC.
+      email: bzink@integratedmedicaldata.com
+      website: https://www.integratedmedicaldata.com/
+      region: us
+      category: marketing
+    - id: intelius-2
+      name: INTELIUS LLC
+      email: support@mailer.intelius.com
+      website: https://www.intelius.com/
+      opt_out_url: https://www.intelius.com/unsubscribe/
+      region: us
+      category: marketing
+    - id: intellicorp-records
+      name: Intellicorp Records, Inc.
+      email: compliance@intellicorp.net
+      website: https://www.intellicorp.net/
+      opt_out_url: https://www.intellicorp.net/marketing/Your-California-Privacy-Rights
+      region: us
+      category: marketing
+    - id: intentgine
+      name: Intentgine Inc.
+      email: paul@intentgine.com
+      website: https://www.intentgine.com/
+      opt_out_url: https://www.intentgine.com/ccpa-privacy
+      region: us
+      category: marketing
+    - id: intent-iq
+      name: Intent IQ LLC
+      email: privacy@intentiq.com
+      website: https://www.intentiq.com/
+      opt_out_url: https://www.intentiq.com/opt-out/
+      region: us
+      category: marketing
+    - id: intentmacro
+      name: Intentmacro Inc.
+      email: paul@intentmacro.com
+      website: https://www.intentmacro.com/
+      opt_out_url: https://www.intentmacro.com/ccpa-privacy
+      region: us
+      category: marketing
+    - id: intentsify
+      name: INTENTSIFY LLC
+      email: privacy@intentsify.io
+      website: https://www.intentsify.io/
+      opt_out_url: https://app.intentsify.io/opt-out
+      region: us
+      category: marketing
+    - id: interactive-data
+      name: INTERACTIVE DATA LLC
+      email: legal.compliance@ididata.com
+      website: https://www.ididata.com/
+      opt_out_url: https://ididata.com/idis-privacy-statement#privacy
+      region: us
+      category: marketing
+    - id: ihs-markit
+      name: IHS Markit
+      email: bruce.noll@ihsmarkit.com
+      website: https://www.ipreo.com/
+      region: us
+      category: marketing
+    - id: ipsos
+      name: Ipsos
+      email: dpo.usa@ipsos.com
+      website: https://www.ipsos.com/
+      region: us
+      category: marketing
+    - id: iq-data-systems
+      name: IQ Data Systems, Inc.
+      email: nate.waymire@backgroundsonline.com
+      website: https://www.backgroundsonline.com/
+      region: us
+      category: marketing
+    - id: iqvia-digital
+      name: IQVIA Digital Inc.
+      email: privacyofficer@iqvia.com
+      website: https://www.iqvia.com/
+      opt_out_url: https://www.iqvia.com/about-us/privacy/ccpa/do-not-sell
+      region: us
+      category: marketing
+    - id: irys
+      name: Irys
+      email: ariyo.noibi@irys.us
+      website: https://www.irys.us/
+      opt_out_url: https://www.irys.us/do-not-sell-ccpa
+      region: us
+      category: marketing
+    - id: iso-services
+      name: ISO Services Inc
+      email: bgeorge@verisk.com
+      website: https://www.jornaya.com/
+      opt_out_url: https://privacy.infutor.com/s/
+      region: us
+      category: marketing
+    - id: ispottv
+      name: Ispot.Tv
+      email: privacy@ispot.tv
+      website: https://www.ispot.tv/
+      opt_out_url: https://www.ispot.tv/privacy/opt-out
+      region: us
+      category: marketing
+    - id: ivy-tech-re
+      name: Ivy Tech Re, LLC
+      email: kyle@getivydata.com
+      website: https://www.getivydata.com/
+      region: us
+      category: marketing
+    - id: iwave-information-systems
+      name: Iwave Information Systems
+      email: privacy+california@iwave.com
+      website: https://www.kindsight.io/
+      opt_out_url: https://go.kindsight.io/privacy-opt-out
+      region: us
+      category: marketing
+    - id: j2-martech
+      name: J2 MARTECH CORP
+      email: privacy@ziffdavis.com
+      website: https://www.ziffdavis.com/
+      opt_out_url: https://platform.fullcontact.com/your-privacy-choices
+      region: us
+      category: marketing
+    - id: jdm-list-services
+      name: JDM List Services, LLC
+      email: chrissy@jdmlistservices.com
+      website: https://www.jdmlistservices.com/
+      opt_out_url: https://www.jdmlistservices.com/do-not-sell-my-info
+      region: us
+      category: marketing
+    - id: jd-power-a-corporation-of-delaware
+      name: JD Power, a Corporation of Delaware
+      email: jdpowerprivacy@jdpa.com
+      website: https://www.jdpower.com/
+      opt_out_url: https://www.jdpower.com/privacy/dsar
+      region: us
+      category: marketing
+    - id: jigyasa-analytics
+      name: Jigyasa Analytics LLC
+      email: info@jigyasaanalytics.com
+      website: https://www.jigyasaanalytics.com/
+      region: us
+      category: marketing
+    - id: jmr-media-consulting
+      name: JMR Media Consulting, Inc.
+      email: privacy@jmr-media.com
+      website: https://www.jmr-media.com/
+      opt_out_url: https://www.jmr-media.com/do-not-sell-my-personal
+      region: us
+      category: marketing
+    - id: jun-group-productions
+      name: Jun Group Productions, LLC
+      email: ccpa@jungroup.com
+      website: https://www.jungroup.com/
+      opt_out_url: https://jungroup.com/ccpa/
+      region: us
+      category: marketing
+    - id: jverify
+      name: Jverify, Inc.
+      email: admin@jverify.com
+      website: https://www.jverify.com/
+      region: us
+      category: marketing
+    - id: kargo-global
+      name: Kargo Global LLC
+      email: privacyinfo@kargo.com
+      website: https://www.kargo.com/
+      opt_out_url: https://www.kargo.com/privacy#opt-out
+      region: us
+      category: marketing
+    - id: kbm-group
+      name: KBM GROUP LLC
+      email: john.petrillo@wundermandata.com
+      website: https://www.kbmg.com/
+      region: us
+      category: marketing
+    - id: kb-synergy
+      name: KB Synergy Inc
+      email: info@kbsynergy.com
+      website: https://www.kbsynergy.com/
+      region: us
+      category: marketing
+    - id: key-marketing-advantage
+      name: Key Marketing Advantage, LLC
+      email: privacy@keymarketingadvantage.com
+      website: https://www.keymarketingadvantage.com/
+      opt_out_url: https://www.keymarketingadvantage.com/do_not_use_my_personal_information
+      region: us
+      category: marketing
+    - id: killi
+      name: Killi Ltd.
+      email: privacy@killi.io
+      website: https://www.killi.io/
+      region: us
+      category: marketing
+    - id: klarifi
+      name: Klarifi
+      email: soren@klarifi.io
+      website: https://www.klarifi.io/
+      region: us
+      category: marketing
+    - id: kloudend
+      name: KLOUDEND Inc
+      email: legal@kloudend.com
+      website: https://www.kloudend.com/
+      opt_out_url: https://ipapi.co/donotsell/
+      region: us
+      category: marketing
+    - id: knower-tech-usa
+      name: Knower Tech Usa, LLC
+      email: info@knowertech.com
+      website: https://www.knowertech.com/
+      region: us
+      category: marketing
+    - id: knowwho
+      name: Knowwho
+      email: bbrownson@knowwho.com
+      website: https://www.knowwho.com/
+      region: us
+      category: marketing
+    - id: kochava
+      name: KOCHAVA Inc.
+      email: legal@kochava.com
+      website: https://www.kochava.com/
+      opt_out_url: https://www.kochava.com/opt-out-do-not-sell-request-process/
+      region: us
+      category: marketing
+    - id: koddi
+      name: Koddi Inc.
+      email: dataprivacy@koddi.com
+      website: https://www.koddi.com/
+      opt_out_url: https://koddi.com/do-not-sell-my-personal-information/
+      region: us
+      category: marketing
+    - id: kols-key-opinion-leaders
+      name: Kols (Key Opinion Leaders)
+      email: kol-privacy@keyopinionleaders.com
+      website: https://www.keyopinionleaders.com/
+      opt_out_url: https://www.keyopinionleaders.com/
+      region: us
+      category: marketing
+    - id: komodo-health
+      name: Komodo Health, Inc.
+      email: trust-and-safety@komodohealth.com
+      website: https://www.komodohealth.com/
+      opt_out_url: https://komodohealth-privacy.my.onetrust.com/webform/5c3cf8b1-3cf1-422d-84d5-618844b7316f/580adaab-6481-479f-9643-50464eea9863
+      region: us
+      category: marketing
+    - id: kontext
+      name: Kontext
+      email: info@kontextdata.com
+      website: https://www.kontextdata.com/
+      region: us
+      category: marketing
+    - id: kyber-health-data
+      name: Kyber Health Data LLC
+      email: kyberccpa@cowen.com
+      website: https://www.cowen.com/
+      opt_out_url: https://www.cowen.com/kyber-data-science-disclosures/do-not-sell-my-information-request-form/
+      region: us
+      category: marketing
+    - id: labels-lists
+      name: LABELS & LISTS Inc
+      email: privacy@l2political.com
+      website: https://www.l2-data.com/
+      opt_out_url: https://l2political.com/california-privacy-rights-for-california-residents-only/
+      region: us
+      category: marketing
+    - id: lead411
+      name: Lead411 Corporation
+      email: lead411_privacy@l4mail.com
+      website: https://www.lead411.com/
+      opt_out_url: https://lead411.com/your-privacy-choices/
+      region: us
+      category: marketing
+    - id: leadcrunch
+      name: Leadcrunch
+      email: privacy@getrev.ai
+      website: https://www.getrev.ai/
+      opt_out_url: https://getrev.ai/do-not-sell-or-share-my-personal-information/
+      region: us
+      category: marketing
+    - id: leadership-connect
+      name: Leadership Connect
+      email: privacy@leadershipconnect.io
+      website: https://www.leadershipconnect.io/
+      opt_out_url: https://www.leadershipconnect.io/opt-out
+      region: us
+      category: marketing
+    - id: leadiq
+      name: LEADIQ Inc
+      email: accounting@leadiq.com
+      website: https://www.leadiq.com/
+      opt_out_url: https://privacy.leadiq.com/privacy-center
+      region: us
+      category: marketing
+    - id: leadloft
+      name: Leadloft Inc.
+      email: privacy@leadloft.com
+      website: https://www.leadloft.com/
+      region: us
+      category: marketing
+    - id: lead-me-media
+      name: LEAD ME MEDIA LLC
+      email: texasregistry@leadmemedia.com
+      website: https://www.leadmemedia.com/
+      opt_out_url: https://policy.leadmemedia.com/California/californiaform.html
+      region: us
+      category: marketing
+    - id: leadpost
+      name: Leadpost, LLC
+      email: delete_mydata@leadpost.com
+      website: https://www.leadpost.com/
+      region: us
+      category: marketing
+    - id: leadsmarketcom
+      name: Leadsmarket.Com LLC
+      email: legal@leadsmarket.com
+      website: https://www.leadsmarket.com/
+      opt_out_url: https://www.leadsmarket.com/privacy-policy.
+      region: us
+      category: marketing
+    - id: leadspace
+      name: Leadspace, Inc.
+      email: privacy_registration@leadspace.com
+      website: https://www.leadspace.com/
+      opt_out_url: https://www.leadspace.com/do-not-sell-form/
+      region: us
+      category: marketing
+    - id: leidos-digital-solutions
+      name: Leidos Digital Solutions, Inc.
+      email: teresa.chesson@leidos.com
+      website: https://www.leidos.com/
+      opt_out_url: https://leidosiq.com/privacy-statement/
+      region: us
+      category: marketing
+    - id: anchor-computer
+      name: Anchor Computer
+      email: hkhan@anchorcomputer.com
+      website: https://www.anchorcomputer.com/
+      opt_out_url: https://ecom2.anchorcomputer.com/privacyrequest
+      region: us
+      category: marketing
+    - id: let-it-ride-sports
+      name: LET IT RIDE SPORTS LLC
+      email: brenton@outlastdfs.com
+      website: https://www.outlastdfs.com/
+      region: us
+      category: marketing
+    - id: lifesight
+      name: Lifesight LLC
+      email: privacy@lifesight.io
+      website: https://www.lifesight.io/
+      opt_out_url: https://lifesight.io/opt-out/
+      region: us
+      category: marketing
+    - id: lightbox-parent-lp
+      name: Lightbox Parent, L.P.
+      email: jfranks@lightboxre.com
+      website: https://www.lightboxre.com/
+      opt_out_url: https://www.lightboxre.com/
+      region: us
+      category: marketing
+    - id: lighthouse-list
+      name: Lighthouse List
+      email: robert@lighthouselist.com
+      website: https://www.lighthouselist.com/
+      opt_out_url: https://unsubscribe.stirista.com
+      region: us
+      category: marketing
+    - id: limeleads
+      name: Limeleads
+      email: privacy@limeleads.com
+      website: https://www.limeleads.com/
+      opt_out_url: https://www.limeleads.com/do-not-sell-my-data-request/
+      region: us
+      category: marketing
+    - id: lionshare-marketing
+      name: Lionshare Marketing, Inc.
+      email: info@lionsharemarketing.com
+      website: https://www.lionsharemarketing.com/
+      opt_out_url: https://www.lionsharemarketing.com/ccpa-opt-out/
+      region: us
+      category: marketing

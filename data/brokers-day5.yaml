@@ -1,0 +1,699 @@
+brokers:
+    - id: listings-information-systems-and-tabulation-services
+      name: Listings, Information, Systems And Tabulation Services, Inc
+      email: info@lists-inc.com
+      website: https://www.lists-inc.com/
+      region: us
+      category: marketing
+    - id: list-service-direct
+      name: List Service Direct Inc.
+      email: dataremoval@listservicedirect.com
+      website: https://www.listservicedirect.com/
+      opt_out_url: https://listservicedirect.com/opt-out/
+      region: us
+      category: marketing
+    - id: listsonline
+      name: Listsonline
+      email: privacyofficer@listsonline.com
+      website: https://www.listsonline.com/
+      region: us
+      category: marketing
+    - id: live-data-technologies
+      name: Live Data Technologies Inc.
+      email: accounting@livedatatechnologies.com
+      website: https://www.livedatatechnologies.com/
+      region: us
+      category: marketing
+    - id: liveintent
+      name: LiveIntent
+      email: privacy@disqus.com
+      website: https://www.disqus.com/
+      opt_out_url: https://privacyportal-cdn.onetrust.com/dsarwebform/bc2d3301-11a5-4de5-b15e-ce796187a352/d0720d0f-d427-4a7d-a773-5d6793229f15.html
+      region: us
+      category: marketing
+    - id: liveramp-2
+      name: Liveramp, Inc.
+      email: info@liveramp.com
+      website: https://www.liveramp.com/
+      opt_out_url: https://www.liveramp.com/opt_out/
+      region: us
+      category: marketing
+    - id: lizdev
+      name: Lizdev, Inc
+      email: privacyanddatacompliancereview@lizdev.com
+      website: https://www.lizdev.com/
+      region: us
+      category: marketing
+    - id: localblox
+      name: Localblox
+      email: sabira@localblox.com
+      website: https://www.localblox.com/
+      opt_out_url: https://consumer.localblox.com/privacy_policy
+      region: us
+      category: marketing
+    - id: locatesmarter
+      name: Locatesmarter, LLC
+      email: teri.ettelson@locatesmarter.com
+      website: https://www.locatesmarter.com/
+      opt_out_url: https://www.locatesmarter.com/request-to-opt-out-do-not-sell-my-personal-information/
+      region: us
+      category: marketing
+    - id: logiq
+      name: Logiq, Inc
+      email: compliance@logiq.com
+      website: https://www.logiq.com/
+      region: us
+      category: marketing
+    - id: lookify
+      name: Lookify
+      email: support@lookify.io
+      website: https://www.lookify.io/
+      opt_out_url: https://www.lookify.io/opt-out
+      region: us
+      category: marketing
+    - id: loopme
+      name: LOOPME LTD
+      email: legal@loopme.com
+      website: https://www.loopme.com/
+      region: us
+      category: marketing
+    - id: lotadata
+      name: Lotadata, Inc.
+      email: apu@lotadata.com
+      website: https://www.lotadata.com/
+      opt_out_url: https://lotadata.com/personal_information
+      region: us
+      category: marketing
+    - id: ls-mobile-apps-holdings
+      name: L.S Mobile Apps Holdings Ltd
+      email: privacy@lsmapps.com
+      website: https://www.lsmapps.com/
+      opt_out_url: https://www.lsmapps.com/onetrust-opt-out
+      region: us
+      category: marketing
+    - id: lucid-holdings
+      name: Lucid Holdings, LLC
+      email: privacy@luc.id
+      website: https://www.luc.id/
+      region: us
+      category: marketing
+    - id: lundquist-consulting
+      name: Lundquist Consulting, Inc.
+      email: info@lciinc.com
+      website: https://www.lciinc.com/
+      opt_out_url: https://g2risksolutions.com/consumer-center/
+      region: us
+      category: marketing
+    - id: lusha-systems
+      name: Lusha Systems, Inc.
+      email: judi.crimmins@lusha.com
+      website: https://www.lusha.com/
+      opt_out_url: https://www.lusha.com/privacy-center/request-removal/
+      region: us
+      category: marketing
+    - id: m1-data-analytics
+      name: M1 Data & Analytics, LLC
+      email: gashe@m1-data.com
+      website: https://www.m1-data.com/
+      opt_out_url: https://m1-data.com/unsubscribe/
+      region: us
+      category: marketing
+    - id: machintel
+      name: Machintel Inc.
+      email: mark.choudhari@machintel.com
+      website: https://www.machintel.com/
+      region: us
+      category: marketing
+    - id: madhive
+      name: Madhive, Inc.
+      email: privacy@madhive.com
+      website: https://www.madhive.com/
+      opt_out_url: https://www.madhive.com/legal/us-state-privacy-notice#optOut
+      region: us
+      category: marketing
+    - id: madison-logic
+      name: Madison Logic, Inc.
+      email: privacy@madisonlogic.com
+      website: https://www.madisonlogic.com/
+      region: us
+      category: marketing
+    - id: magnite
+      name: MAGNITE Inc
+      email: privacy@magnite.com
+      website: https://www.magnite.com/
+      opt_out_url: https://www.magnite.com/legal/user-choice-portal/#optout
+      region: us
+      category: marketing
+    - id: malvern-media
+      name: Malvern Media Inc.
+      email: info@malvernmedia.com
+      website: https://www.malvernmedia.com/
+      opt_out_url: https://privacyportal.privacypillar.com/dsar/form?formid=6e6ff4b8-2296-4589-ae7f-563fa743ec2d&orgid=369c8ff9-8ffb-4308-8362-f01691e77db8&propid=64c8904f-8bac-4dd9-8e6c-d052be1918a2&status=publish
+      region: us
+      category: marketing
+    - id: marinus-analytics
+      name: Marinus Analytics
+      email: privacy@marinusanalytics.com
+      website: https://www.marinusanalytics.com/
+      opt_out_url: https://www.marinusanalytics.com/do-not-sell-my-personal-information
+      region: us
+      category: marketing
+    - id: market-force
+      name: Market Force Corporation
+      email: privacy@marketforcecorp.com
+      website: https://www.marketforcecorp.com/
+      opt_out_url: https://www.marketforcecorp.com/opt-out/
+      region: us
+      category: marketing
+    - id: marketops
+      name: Marketops LLC
+      email: james@marketops.com
+      website: https://www.marketops.com/
+      opt_out_url: https://marketops.com/privacy-options/
+      region: us
+      category: marketing
+    - id: marriott-international
+      name: Marriott International, Inc.
+      email: privacy@marriott.com
+      website: https://www.marriott.com/
+      opt_out_url: https://privacyportal.onetrust.com/webform/0894cd2c-85ba-4d0b-8ec1-e18f3735e0e0/b03c7f1f-4aca-4502-b5eb-d8d883be4c8c
+      region: us
+      category: marketing
+    - id: martin-data
+      name: Martin Data LLC
+      email: aj@usinfosearch.com
+      website: https://www.usinfosearch.com/
+      region: us
+      category: marketing
+    - id: matchandappendcom
+      name: Matchandappend.Com LLC
+      email: info@matchandappend.com
+      website: https://www.matchandappend.com/
+      opt_out_url: https://www.matchandappend.com/do-not-sell-my-data/
+      region: us
+      category: marketing
+    - id: matchbook-data
+      name: MATCHBOOK DATA LLC
+      email: privacy@matchbookdata.com
+      website: https://www.matchbookdata.com/
+      opt_out_url: https://www.matchbookdata.com/opt-out-form/
+      region: us
+      category: marketing
+    - id: maxmind
+      name: MAXMIND Inc
+      email: legal@maxmind.com
+      website: https://www.maxmind.com/
+      opt_out_url: https://www.maxmind.com/en/opt-out
+      region: us
+      category: marketing
+    - id: mch
+      name: MCH Inc
+      email: privacy@mchdata.com
+      website: https://www.mchdata.com/
+      opt_out_url: https://www.mchdata.com/about/ccpaemail
+      region: us
+      category: marketing
+    - id: media-direct
+      name: Media Direct, Inc.
+      email: slubin@digdev.com
+      website: https://www.digdevdirect.com/
+      region: us
+      category: marketing
+    - id: mediamath
+      name: Mediamath, Inc.
+      email: privacy@mediamath.com
+      website: https://www.mediamath.com/
+      opt_out_url: https://www.mediamath.com/privacy-policy/ccpa-optout/
+      region: us
+      category: marketing
+    - id: medianet-advertising-fz
+      name: Media.Net Advertising Fz, LLC
+      email: privacy@media.net
+      website: https://www.media.net/
+      opt_out_url: https://www.media.net/optout/
+      region: us
+      category: marketing
+    - id: media-resource-group
+      name: Media Resource Group LLC
+      email: info@mrginc.com
+      website: https://www.mrginc.com/
+      opt_out_url: https://www.mrginc.com/opt-out/
+      region: us
+      category: marketing
+    - id: mediasoft
+      name: Mediasoft, LLC
+      email: info@mediasoftstudio.com
+      website: https://www.mediasoftstudio.com/
+      opt_out_url: https://www.mediasoftstudio.com/unsubscribe.php
+      region: us
+      category: marketing
+    - id: media-source-solutions
+      name: Media Source Solutions
+      email: mvolpe@mediasourcesolutions.com
+      website: https://www.mediasourcesolutions.com/
+      opt_out_url: https://unsubscribe.stirista.com/
+      region: us
+      category: marketing
+    - id: mediawallah
+      name: MEDIAWALLAH Inc
+      email: privacy@mediawallah.com
+      website: https://www.mediawallah.com/
+      opt_out_url: https://mediawallah.com/donotsell/
+      region: us
+      category: marketing
+    - id: mediazod
+      name: Mediazod LLC
+      email: privacy@leadzod.com
+      website: https://www.leadzod.com/
+      region: us
+      category: marketing
+    - id: medpro-systems
+      name: Medpro Systems
+      email: privacy@medprosystems.com
+      website: https://www.medprosystems.com/
+      region: us
+      category: marketing
+    - id: melissa-data
+      name: MELISSA DATA CORPORATION
+      email: dennis.bedford@melissa.com
+      website: https://www.melissa.com/
+      opt_out_url: https://apps.melissa.com/user/consumerprivacy.aspx
+      region: us
+      category: marketing
+    - id: meltwater-news-us
+      name: Meltwater News US Inc
+      email: legal@meltwater.com
+      website: https://www.meltwater.com/
+      opt_out_url: https://www.meltwater.com/en/legal
+      region: us
+      category: marketing
+    - id: merkle
+      name: Merkle Inc.
+      email: david.yonchak@dentsu.com
+      website: https://www.merkleinc.com/
+      opt_out_url: https://merkleinc.com/en/privacy-policy/data-product-privacy-notice/control-your-personal-information.html
+      region: us
+      category: marketing
+    - id: message-digital
+      name: MESSAGE DIGITAL LLC
+      email: privacy@messagedigital.com
+      website: https://www.messagedigital.com/
+      opt_out_url: https://www.messagedigital.com/my-data
+      region: us
+      category: marketing
+    - id: mfi-credit-solutions
+      name: MFI Credit Solutions
+      email: mfitzpatrick@mfidata.com
+      website: https://www.mfidata.com/
+      region: us
+      category: marketing
+    - id: mh-sub-i
+      name: MH Sub I, LLC
+      email: privacy@internetbrands.com
+      website: https://www.internetbrands.com/
+      opt_out_url: https://www.internetbrands.com/privacy/privacy-contact-form.php
+      region: us
+      category: marketing
+    - id: mightyrep
+      name: Mightyrep
+      email: privacy@mightyrep.com
+      website: https://www.mightyrep.com/
+      region: us
+      category: marketing
+    - id: milestone-marketing-solutions
+      name: Milestone Marketing Solutions
+      email: bgleason@milestonemarketingsolutions.com
+      website: https://www.milestonemarketingsolutions.com/
+      opt_out_url: https://www.milestonemarketingsolutions.com/do-not-sell-my-information
+      region: us
+      category: marketing
+    - id: minerva-bi
+      name: MINERVA BI Inc
+      email: privacy@minervadata.xyz
+      website: https://www.realtors.minervadata.xyz/
+      opt_out_url: https://realtors.minervadata.xyz/opt-out
+      region: us
+      category: marketing
+    - id: mobile-technology
+      name: Mobile Technology Corporation
+      email: optout@onspotdata.com
+      website: https://www.onspotdata.com/
+      region: us
+      category: marketing
+    - id: mobilewalla
+      name: Mobilewalla, Inc.
+      email: jclark@mobilewalla.com
+      website: https://www.mobilewalla.com/
+      opt_out_url: https://www.mobilewalla.com/global-opt-out-request
+      region: us
+      category: marketing
+    - id: modernize
+      name: Modernize, Inc.
+      email: support@modernize.com
+      website: https://www.modernize.com/
+      opt_out_url: https://privacy-central.securiti.ai/#/dsr/1b319101-f00c-470f-a7f0-26aa81f057b8
+      region: us
+      category: marketing
+    - id: modfx-labs-private-limited
+      name: Modfx Labs Private Limited
+      email: mandeep@modfxlabs.com
+      website: https://www.modfxlabs.com/
+      region: us
+      category: marketing
+    - id: modigie
+      name: Modigie Inc.
+      email: privacy@modigie.com
+      website: https://www.modigie.com/
+      opt_out_url: https://privacyportal.onetrust.com/webform/4a8e10dc-2293-42ea-ad06-886bc22167a6/20341940-11c2-4c43-9b64-194e952203fd
+      region: us
+      category: marketing
+    - id: mogean
+      name: Mogean, Inc.
+      email: info@mogean.com
+      website: https://www.mogean.com/
+      opt_out_url: https://www.mogean.com/opt-out
+      region: us
+      category: marketing
+    - id: monevo
+      name: Monevo, Inc.
+      email: usasupport@monevo.com
+      website: https://www.monevo.com/
+      opt_out_url: https://www.monevo.us/privacy-portal.
+      region: us
+      category: marketing
+    - id: monocl
+      name: Monocl
+      email: privacy@definitivehc.com
+      website: https://www.monocl.com/
+      opt_out_url: https://preferences.definitivehc.com/privacy
+      region: us
+      category: marketing
+    - id: m-r-strategic-services
+      name: M&R Strategic Services
+      email: privacy@mrss.com
+      website: https://www.mrss.com/
+      opt_out_url: https://docs.google.com/forms/d/e/1FAIpQLSefr7ccty1bMZza8chUgLe0eWktBpQ_wGhzFpzeUupGlna3CA/viewform?usp=sf_link
+      region: us
+      category: marketing
+    - id: msim
+      name: Msim, LLC
+      email: dl-msim@move.com
+      website: https://www.none/
+      region: us
+      category: marketing
+    - id: multimedia-lists
+      name: MULTIMEDIA Lists, Inc.
+      email: daniel@multimedialists.com
+      website: https://www.multimedialists.com/
+      opt_out_url: https://privacyportal.privacypillar.com/dsar/form?orgid=3b24c635-e1a9-4e8c-8e61-9f5fa0024f9c&propid=d3da91fd-2750-4534-9436-f29b3e513fe5&formid=4106bc86-1ddf-461b-b7f6-a5f53b0977b3&status=publish
+      region: us
+      category: marketing
+    - id: my-renter-checker
+      name: MY RENTER CHECKER LLC
+      email: myrenterchecker@gmail.com
+      website: https://www.myrenterchecker.com/
+      region: us
+      category: marketing
+    - id: narvar
+      name: Narvar, Inc.
+      email: legal@narvar.com
+      website: https://www.corp.narvar.com/
+      opt_out_url: https://narvar.my.onetrust.com/webform/04b3731f-2a9a-42ce-bd6b-106d4b4ec3bf/a7c944bf-3cec-4f00-9dc5-dea5bf2b6f4f
+      region: us
+      category: marketing
+    - id: national-consumer-telecom-utilities-exchange
+      name: National Consumer Telecom & Utilities Exchange, Inc.
+      email: abby@nacmsw.com
+      website: https://www.nctue.com/
+      region: us
+      category: marketing
+    - id: national-data-analytics
+      name: National Data Analytics, LLC
+      email: privacyinfo@publicdatacheck.com
+      website: https://www.publicdatacheck.com/
+      opt_out_url: https://www.publicdatacheck.com/help-center/privacy-requests
+      region: us
+      category: marketing
+    - id: national-opinion-institute
+      name: National Opinion Institute, LLC
+      email: privacy@nationalopinioninstitute.com
+      website: https://www.nationalopinioninstitute.com/
+      opt_out_url: https://privacyportal.onetrust.com/webform/77dff651-9f08-40cd-99fe-a7c487b2504d/afcce4ab-fd72-4990-a972-58e24d9110a7
+      region: us
+      category: marketing
+    - id: national-student-clearinghouse
+      name: NATIONAL STUDENT CLEARINGHOUSE
+      email: legal@studentclearinghouse.org
+      website: https://www.studentclearinghouse.org/
+      region: us
+      category: marketing
+    - id: nativo
+      name: Nativo, Inc.
+      email: legal@nativo.com
+      website: https://www.nativo.com/
+      opt_out_url: https://www.nativo.com/interest-based-ads#your-rights
+      region: us
+      category: marketing
+    - id: ncr
+      name: NCR Corporation
+      email: office.privacy@ncr.com
+      website: https://www.ncr.com/
+      region: us
+      category: marketing
+    - id: nc-ventures
+      name: NC VENTURES LLC
+      email: ncs.privacy@ncsolutions.com
+      website: https://www.ncsolutions.com/
+      opt_out_url: https://ncsolutions.com/do-not-sell-my-information/
+      region: us
+      category: marketing
+    - id: near-north-america
+      name: Near North America
+      email: privacy@near.co
+      website: https://www.near.co/
+      region: us
+      category: marketing
+    - id: dun-bradstreet
+      name: DUN & BRADSTREET Inc
+      email: privacy@netwisedata.com
+      website: https://www.dnb.com/
+      opt_out_url: https://www.netwisedata.com/consumer-privacy
+      region: us
+      category: marketing
+    - id: new-england-list-services
+      name: New England List Services
+      email: dave@nelists.com
+      website: https://www.nelists.com/
+      region: us
+      category: marketing
+    - id: new-gold-ventures
+      name: New Gold Ventures LLC
+      email: barry.gold@thinkdatagroup.com
+      website: https://www.thinkdatagroup.com/
+      opt_out_url: https://www.thinkdatagroup.com/opt-out-option
+      region: us
+      category: marketing
+    - id: new-strata
+      name: New Strata Inc.
+      email: info@fivestrata.com
+      website: https://www.fivestrata.com/
+      region: us
+      category: marketing
+    - id: nexsales-solutions
+      name: Nexsales Solutions Inc.
+      email: privacy@nexsales.com
+      website: https://www.nexsales.com/
+      region: us
+      category: marketing
+    - id: nextroll
+      name: Nextroll, Inc.
+      email: legal@nextroll.com
+      website: https://www.nextroll.com/
+      opt_out_url: https://app.adroll.com/optout
+      region: us
+      category: marketing
+    - id: next-wave-marketing-strategies
+      name: Next Wave Marketing Strategies, Inc
+      email: troy@nextwavemarketingstrategies.com
+      website: https://www.nextwavemarketingstrategies.com/
+      opt_out_url: https://agedleadstore.com/opt-out-share-sale-info-form/
+      region: us
+      category: marketing
+    - id: nexxa-group
+      name: Nexxa Group, Inc.
+      email: consumerchoice@nexxagroup.com
+      website: https://www.nexxagroup.com/
+      opt_out_url: https://www.nexxagroup.com/corporate-overview/consumer-opt-out/
+      region: us
+      category: marketing
+    - id: nexxen
+      name: Nexxen Inc.
+      email: privacyrights@nexxen.com
+      website: https://www.nexxen.com/
+      opt_out_url: https://yourdata.nexxen.com/
+      region: us
+      category: marketing
+    - id: nfocus-consulting
+      name: Nfocus Consulting Inc
+      email: consumer@n-focus.com
+      website: https://www.n-focus.com/
+      opt_out_url: https://www.n-focus.com/do-not-sell-or-share-my-personal-information/
+      region: us
+      category: marketing
+    - id: north-american-media
+      name: North American Media LLC
+      email: angelan@namericanmedia.com
+      website: https://www.namericanmedia.com/
+      region: us
+      category: marketing
+    - id: nova-list-company
+      name: NOVA List Company, LLC
+      email: ckoch@novalist.com
+      website: https://www.novalist.com/
+      opt_out_url: https://www.novalist.com/opt-out
+      region: us
+      category: marketing
+    - id: nymblr
+      name: Nymblr, Inc.
+      email: support@nimbler.com
+      website: https://www.nymblr.com/
+      opt_out_url: https://www.nymblr.com
+      region: us
+      category: marketing
+    - id: onaudience
+      name: Onaudience Ltd
+      email: privacy@onaudience.com
+      website: https://www.onaudience.com/
+      opt_out_url: https://www.onaudience.com/opt-out
+      region: us
+      category: marketing
+    - id: onemata
+      name: Onemata Corporation
+      email: privacy@onemata.com
+      website: https://www.onemata.com/
+      region: us
+      category: marketing
+    - id: one-model
+      name: One Model, Inc.
+      email: privacy@onemodel.co
+      website: https://www.onemodel.co/
+      region: us
+      category: marketing
+    - id: on-hold-america
+      name: On Hold-America, Inc.
+      email: consumers@kycdata.com
+      website: https://www.kycdata.com/
+      opt_out_url: https://www.kycdata.com/consumer-privacy/
+      region: us
+      category: marketing
+    - id: online-advertising-network-sp-z-oo
+      name: Online Advertising Network Sp. z o.o.
+      email: privacy@oan.pl
+      website: https://www.oan.pl/
+      opt_out_url: https://oan.pl/opt-out/
+      region: us
+      category: marketing
+    - id: online-media-group
+      name: ONLINE MEDIA GROUP Inc.
+      email: privacy@omginc.xyz
+      website: https://www.omginc.xyz/
+      opt_out_url: https://www.omginc.xyz/privacy#ccpa
+      region: us
+      category: marketing
+    - id: opensend
+      name: Opensend Inc
+      email: privacy@opensend.com
+      website: https://www.opensend.com/
+      region: us
+      category: marketing
+    - id: openx-technologies
+      name: Openx Technologies, Inc.
+      email: privacy@openx.com
+      website: https://www.openx.com/
+      opt_out_url: https://www.openx.com/privacy-center/browser-opt-out-portal/
+      region: us
+      category: marketing
+    - id: optimal-fusion
+      name: Optimal Fusion
+      email: dataprotectionofficer@optimalfusion.com
+      website: https://www.optimalfusion.com/
+      opt_out_url: https://www.optimalfusion.com/adpreferences/
+      region: us
+      category: marketing
+    - id: oracle-america
+      name: Oracle America, Inc.
+      email: privacy_ww@oracle.com
+      website: https://www.oracle.com/
+      opt_out_url: https://datacloudoptout.oracle.com/optout.#maincontent
+      region: us
+      category: marketing
+    - id: orgio
+      name: Orgio, Inc.
+      email: privacy@theorg.com
+      website: https://www.theorg.com/
+      opt_out_url: https://www.theorg.com/do-not-sell
+      region: us
+      category: marketing
+    - id: origin8
+      name: ORIGIN8 Inc
+      email: compliance@pushint.com
+      website: https://www.pushint.com/
+      opt_out_url: https://pushint.com/manage-my-data
+      region: us
+      category: marketing
+    - id: outbrain
+      name: Outbrain Inc.
+      email: legal@outbrain.com
+      website: https://www.outbrain.com/
+      opt_out_url: https://my.outbrain.com/recommendations-settings/home
+      region: us
+      category: marketing
+    - id: outlogic
+      name: OUTLOGIC LLC
+      email: privacy@outlogic.io
+      website: https://www.outlogic.io/
+      opt_out_url: https://outlogic.io/opt-out-form/
+      region: us
+      category: marketing
+    - id: outward-media
+      name: Outward Media, Inc.
+      email: accounting@outwardmedia.com
+      website: https://www.outwardmedia.com/
+      opt_out_url: https://www.outwardmedia.com/do-not-sell
+      region: us
+      category: marketing
+    - id: lender-feed
+      name: Lender Feed LLC
+      email: privacy@monitorbase.com
+      website: https://www.monitorbase.com/
+      opt_out_url: https://my.monitorbase.com/privacypolicy
+      region: us
+      category: marketing
+    - id: owneriq
+      name: Owneriq, Inc.
+      email: tpowell@owneriq.com
+      website: https://www.owneriq.com/
+      opt_out_url: https://www.owneriq.com/privacy-notice.html#opt-out
+      region: us
+      category: marketing
+    - id: pacific-east-research
+      name: Pacific East Research Inc
+      email: privacy@pacificeast.com
+      website: https://www.pacificeast.com/
+      opt_out_url: https://www.pacificeast.com/contact-us-privacy/
+      region: us
+      category: marketing
+    - id: paedae
+      name: Paedae, Inc.
+      email: privacy@infillion.com
+      website: https://www.infillion.com/
+      opt_out_url: https://privacyportal.onetrust.com/webform/f7e3f6db-ed65-4759-a3f5-3b5c8b7e9bff/draft/9949a1a8-aa69-4848-a93f-d093d877a981
+      region: us
+      category: marketing
+    - id: paramount-lists
+      name: PARAMOUNT LISTS Inc
+      email: ccpa@paramountdirectmarketing.com
+      website: https://www.paramountdirectmarketing.com/
+      opt_out_url: https://www.paramountdirectmarketing.com/opt_out_request.php
+      region: us
+      category: marketing
