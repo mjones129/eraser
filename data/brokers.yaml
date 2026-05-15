@@ -29,7 +29,7 @@ brokers:
       category: people-search
     - id: truepeoplesearch
       name: TruePeopleSearch
-      email: contact@truepeoplesearch.com
+      email: support@truepeoplesearch.com
       website: https://www.truepeoplesearch.com
       opt_out_url: https://www.truepeoplesearch.com/removal
       region: us
@@ -119,7 +119,7 @@ brokers:
       category: background-check
     - id: publicrecords360
       name: PublicRecords360
-      email: privacy@publicrecords360.com
+      email: custserv@publicrecords360.com
       website: https://www.publicrecords360.com
       region: us
       category: people-search
@@ -127,12 +127,12 @@ brokers:
       name: SearchPeopleFree
       email: privacy@searchpeoplefree.com
       website: https://www.searchpeoplefree.com
-      opt_out_url: https://www.searchpeoplefree.com/optout
+      opt_out_url: https://www.searchpeoplefree.com/opt-out
       region: us
       category: people-search
     - id: acxiom
       name: Acxiom
-      email: consumeradvo@acxiom.com
+      email: askprivacy@acxiom.com
       website: https://www.acxiom.com
       opt_out_url: https://isapps.acxiom.com/optout/optout.aspx
       region: global
@@ -162,6 +162,7 @@ brokers:
       name: TransUnion Marketing
       email: privacy@transunion.com
       website: https://www.transunion.com
+      opt_out_url: https://service.transunion.com/dss/ccpa_optout.page
       region: global
       category: marketing
     - id: lexisnexis
@@ -207,7 +208,7 @@ brokers:
       category: marketing
     - id: checkr
       name: Checkr
-      email: privacy@checkr.com
+      email: privacyofficer@checkr.com
       website: https://checkr.com
       region: us
       category: background-check
@@ -225,8 +226,9 @@ brokers:
       category: background-check
     - id: hireright
       name: HireRight
-      email: privacy@hireright.com
+      email: HireRightPrivacy@HireRight.com
       website: https://www.hireright.com
+      opt_out_url: https://www.hireright.com/u-s-state-consumer-privacy-rights-request-form
       region: global
       category: background-check
     - id: nuwber
@@ -1951,7 +1953,7 @@ brokers:
       name: CENGAGE LEARNING Inc
       email: privacy@cengage.com
       website: https://www.cengage.com/
-      opt_out_url: https://info.cengage.com/LP=5633
+      opt_out_url: https://cengage.my.site.com/s/rtbf
       region: us
       category: marketing
     - id: getemails
@@ -2137,7 +2139,7 @@ brokers:
       category: marketing
     - id: general-information-solutions
       name: General Information Solutions LLC
-      email: cklafehn@backgroundchecks.com
+      email: support@backgroundchecks.com
       website: https://www.backgroundchecks.com/
       region: us
       category: marketing

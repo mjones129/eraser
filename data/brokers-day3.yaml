@@ -205,13 +205,6 @@ brokers:
       opt_out_url: https://optout.networkadvertising.org/
       region: us
       category: marketing
-    - id: edvisors-network
-      name: Edvisors Network, Inc.
-      email: customerservices@edvisors.com
-      website: https://www.edvisors.com/
-      opt_out_url: https://www.edvisors.com/third-party-opt-out/
-      region: us
-      category: marketing
     - id: effyis
       name: Effyis, Inc.
       email: info@socialgist.com
@@ -560,7 +553,7 @@ brokers:
       name: CENGAGE LEARNING Inc
       email: privacy@cengage.com
       website: https://www.cengage.com/
-      opt_out_url: https://info.cengage.com/LP=5633
+      opt_out_url: https://cengage.my.site.com/s/rtbf
       region: us
       category: marketing
     - id: getemails

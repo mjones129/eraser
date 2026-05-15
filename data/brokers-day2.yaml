@@ -528,12 +528,6 @@ brokers:
       website: https://www.crawlbee.com/
       region: us
       category: marketing
-    - id: credit-bureau-of-council-bluffs
-      name: Credit Bureau Of Council Bluffs, Inc
-      email: heather@creditinfosystems.com
-      website: https://www.creditinfosystems.com/
-      region: us
-      category: marketing
     - id: crisil-irevna-us
       name: CRISIL Irevna US LLC
       email: privacy1@crisil.com
@@ -543,7 +537,7 @@ brokers:
       category: marketing
     - id: cross-pixel-media
       name: Cross Pixel Media, Inc.
-      email: apearlstein@crosspixel.net
+      email: stephanie.mccabe@knowertech.ca
       website: https://www.crosspixel.net/
       opt_out_url: https://privacy.crsspxl.com/optout
       region: us
