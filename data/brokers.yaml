@@ -619,13 +619,6 @@ brokers:
       opt_out_url: https://arity.com/yourprivacychoices/
       region: us
       category: marketing
-    - id: arrakis-technologies
-      name: Arrakis Technologies Corp.
-      email: privacy@arrakis.ai
-      website: https://www.arrakis.ai/
-      opt_out_url: https://www.arrakis.ai/optout
-      region: us
-      category: marketing
     - id: american-spirit-data-solutions
       name: AMERICAN SPIRIT DATA SOLUTIONS LLC
       email: privacy@aspire-north.com
