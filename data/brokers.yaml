@@ -1667,13 +1667,6 @@ brokers:
       website: https://www.emailmovers.com/
       region: us
       category: marketing
-    - id: emergescom-incorporated
-      name: EMERGES.COM INCORPORATED
-      email: shawn@emerges.com
-      website: https://www.emerges.com/
-      opt_out_url: https://www.emerges.com/Government-Record-Opt-Out_ep_51-1.html
-      region: us
-      category: marketing
     - id: endgame-labs
       name: Endgame Labs, Inc
       email: privacy@endgame.io
@@ -1875,7 +1868,7 @@ brokers:
       category: marketing
     - id: foragerai
       name: Forager.Ai, LLC
-      email: legal@forager.ai
+      email: privacy@forager.ai
       website: https://www.forager.ai/
       region: us
       category: marketing
@@ -1918,13 +1911,6 @@ brokers:
       name: FREE DATA SERVICES LLC
       email: support@truepeoplesearch.com
       website: https://www.truepeoplesearch.com/
-      region: us
-      category: marketing
-    - id: freemium-data-services
-      name: Freemium Data Services, LLC
-      email: compliance@reachdata.com
-      website: https://www.reachdata.com/
-      opt_out_url: https://www.reachdata.com/privacy
       region: us
       category: marketing
     - id: freepeoplesearchcom
@@ -2053,12 +2039,6 @@ brokers:
       email: ccpa@greatlakeslists.com
       website: https://www.greatlakeslists.com/
       opt_out_url: https://www.greatlakeslists.com/opt_out_request.php
-      region: us
-      category: marketing
-    - id: greenhouse-software
-      name: Greenhouse Software, Inc.
-      email: privacy@greenhouse.io
-      website: https://www.greenhouse.com/
       region: us
       category: marketing
     - id: grin-technologies
