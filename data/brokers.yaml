@@ -741,7 +741,7 @@ brokers:
       category: marketing
     - id: bdo-usa-llp
       name: BDO USA, LLP
-      email: privacy@bdo.com
+      email: privacy@bdo-gci.com
       website: https://www.bdo.com/
       opt_out_url: https://www.bdo.com/do-not-sell-my-personal-information
       region: us
@@ -1933,13 +1933,6 @@ brokers:
       name: Fushia Media, LLC.
       email: support@fushiamedia.com
       website: https://www.fushiamedia.com/
-      region: us
-      category: marketing
-    - id: fyllo
-      name: Fyllo
-      email: legal@hellofyllo.com
-      website: https://www.hellofyllo.com/
-      opt_out_url: https://www.semasio.com/legal/privacy-choices
       region: us
       category: marketing
     - id: g2-bankruptcy-risk-solutions

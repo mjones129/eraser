@@ -535,13 +535,6 @@ brokers:
       website: https://www.fushiamedia.com/
       region: us
       category: marketing
-    - id: fyllo
-      name: Fyllo
-      email: legal@hellofyllo.com
-      website: https://www.hellofyllo.com/
-      opt_out_url: https://www.semasio.com/legal/privacy-choices
-      region: us
-      category: marketing
     - id: g2-bankruptcy-risk-solutions
       name: G2 Bankruptcy Risk Solutions, Inc.
       email: ramtin.taheri@g2risksolutions.com

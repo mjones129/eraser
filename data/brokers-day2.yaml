@@ -42,7 +42,7 @@ brokers:
       category: marketing
     - id: bdo-usa-llp
       name: BDO USA, LLP
-      email: privacy@bdo.com
+      email: privacy@bdo-gci.com
       website: https://www.bdo.com/
       opt_out_url: https://www.bdo.com/do-not-sell-my-personal-information
       region: us
