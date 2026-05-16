@@ -1862,13 +1862,6 @@ brokers:
       opt_out_url: https://www.forewarn.com/opt-out-policy/
       region: us
       category: marketing
-    - id: fourleaf
-      name: Fourleaf LLC
-      email: privacy@thefourleaf.com
-      website: https://www.fourleafdata.com/
-      opt_out_url: https://www.fourleafdata.com/privacy-policy
-      region: us
-      category: marketing
     - id: foursquare-labs
       name: Foursquare Labs, Inc.
       email: legal@foursquare.com
